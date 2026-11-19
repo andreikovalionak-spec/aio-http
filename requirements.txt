@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+asyncpg==0.29.0
+pyjwt==2.8.0
+werkzeug==3.0.3
